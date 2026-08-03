@@ -1,5 +1,7 @@
 # Responsive Video Streaming Homepage (HTML & CSS)
 
+🔗 **Live Demo:** https://pkpiku.github.io/responsive-video-streaming-homepage/
+
 ## 📌 Project Overview
 
 This project is a **responsive video streaming homepage** built using **HTML5** and **CSS3**. It recreates the layout and user interface of a modern video streaming platform to practice real-world frontend development concepts.
